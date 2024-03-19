@@ -26,6 +26,10 @@ const Map = () => {
       geocode: [33.97761408780611, -117.3382975261192],
       popUp: "Cravin' Crab Haus",
     },
+    {
+      geocode: [33.990676453780424, -117.33766863813486],
+      popUp: "McDonald's",
+    }
   ]);
 
   const customMarkerIcon = new Icon({
